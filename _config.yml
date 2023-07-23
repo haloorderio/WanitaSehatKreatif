@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Blog Hakim
+title: Wanita Sehat Kreatif
 
 # Your name to show in the footer
 author: Muhammad Nurul Hakim
@@ -19,7 +19,7 @@ author: Muhammad Nurul Hakim
 # --- URL --- #
 ###############################################
 
-url: "https://hakim.orderio.id"
+url: "https://wanitasehatkreatif.orderio.id"
 
 ###############################################
 # --- Space Iklan --- #
@@ -36,7 +36,7 @@ navbar-links:
   Rekomendasi:
     - Bikin Toko Online: "https://orderio.id"
     - Undangan Nikah Digital: "https://maumantenan.com"
-    - Mukena Terbaru: "https://mukenalarizka.com"
+    - Mukena Terbaru: "https://mukenalarizka.orderio.id"
 
 ################
 # --- Logo --- #
