@@ -19,7 +19,7 @@ author: Nuri Giana
 # --- URL --- #
 ###############################################
 
-url: "https://wanitasehatkreatif.orderio.id"
+url: "https://wanitasehatkreatif.orderio.my.id"
 
 ###############################################
 # --- Space Iklan --- #
@@ -34,9 +34,9 @@ ads: true
 navbar-links:
   About Me: "aboutme"
   Rekomendasi:
-    - Bikin Toko Online: "https://orderio.id"
+    - Bikin Toko Online: "https://orderio.my.id"
     - Undangan Nikah Digital: "https://maumantenan.com"
-    - Mukena Terbaru: "https://mukenalarizka.orderio.id"
+    - Mukena Terbaru: "https://mukenalarizka.orderio.my.id"
 
 ################
 # --- Logo --- #
