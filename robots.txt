@@ -1,4 +1,4 @@
-Sitemap: https://hakim.orderio.id/sitemap.xml
+Sitemap: https://orderio.my.id/wanitasehatkreatif/sitemap.xml
 
 User-agent: *
 
